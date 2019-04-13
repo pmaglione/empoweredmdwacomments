@@ -1,0 +1,11 @@
+{
+	"id": "dr-dashboard@lifia.info.unlp.edu.ar",
+	"name": "MashNews!",
+	"version": "1.0.3",
+	"description": "A dashboard that consume news from ...",
+	"author": "LIFIA",
+	"homepage": "http://www.lifia.info.unlp.edu.ar/lifia/es",
+	"license": "MPL 2.0",
+	"index": "index.html"
+}
+
